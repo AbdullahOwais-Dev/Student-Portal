@@ -1,0 +1,2 @@
+# Student-Portal
+ The Student Portal is a PHP-based web application designed to manage student attendance and exam marks. It features secure login systems for both students and administrators, with a student dashboard to view personal details, attendance, and grades, and an admin dashboard to manage students, record attendance, and input marks. Built with PHP, this project ensures a seamless, secure, and user-friendly experience for both students and administrators.
